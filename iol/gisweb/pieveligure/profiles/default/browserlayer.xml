@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+  <layer name="iol.gisweb.pieveligure"
+    interface="iol.gisweb.pieveligure.interfaces.IIolAppsLayer"/>
+</layers>
